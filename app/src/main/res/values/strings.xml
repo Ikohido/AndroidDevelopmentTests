@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="logo_name">Калькулятор</string>
+    <string name="hint_1">Введите первое значение</string>
+    <string name="hint_2">Введите второе значение</string>
+    <string name="button">Добавить числа</string>
+</resources>
